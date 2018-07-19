@@ -1,0 +1,24 @@
+{
+  "name": "netcinema",
+  "version": "1.0.0",
+  "description": "catalogo de filmes e series",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "fredericoaraujo",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "cookie-parser": "^1.0.1",
+    "dateformat": "^2.0.0",
+    "debug": "^2.6.8",
+    "express": "^4.15.2",
+    "formidable": "^1.1.1",
+    "mongoose": "^4.11.4",
+    "morgan": "^1.8.1",
+    "mysql": "^2.13.0",
+    "nodemon": "^1.14.12",
+    "static-favicon": "^1.0.2"
+  }
+}
